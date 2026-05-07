@@ -42,7 +42,7 @@ function App() {
               <p className="brandSub">Finishing Your Dreams</p>
             </div>
           </div>
-          <a href="https://wa.me/201555544285" className="navCta">تواصل واتساب</a>
+          <a href="https://wa.me/201222261937" className="navCta">تواصل واتساب</a>
         </nav>
 
         <div className="heroGrid">
